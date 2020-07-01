@@ -1,0 +1,16 @@
+{
+  "editor.tabSize": 2,
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "javascript.preferences.quoteStyle": "single",
+  "editor.detectIndentation": false,
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 120,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+  "prettier.semi": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
