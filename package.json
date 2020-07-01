@@ -1,8 +1,8 @@
 {
   "name": "chop-template-engine",
-  "version": "1.2.0",
-  "description": "POC template engine package.",
-  "main": "index.js",
+  "version": "1.6.0",
+  "description": "Template engine for .chop files.",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/raffacabofrio/node-template-engine#readme",
   "devDependencies": {
     "prettier": "2.0.5"
+  },
+  "dependencies": {
+    "pirates": "^4.0.1"
   }
 }
