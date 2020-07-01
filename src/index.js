@@ -26,3 +26,5 @@ const templateEngine = (data, templatePath) => {
 }
 
 addHook(hook, { exts: ['.chop'], matcher })
+
+module.exports = templateEngine

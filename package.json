@@ -4,7 +4,7 @@
   "description": "Template engine for .chop files.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/raffacabofrio/node-template-engine#readme",
   "devDependencies": {
+    "jest": "^26.1.0",
     "prettier": "2.0.5"
   },
   "dependencies": {
