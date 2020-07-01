@@ -1,0 +1,22 @@
+{
+  "name": "chop-template-engine",
+  "version": "1.2.0",
+  "description": "POC template engine package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raffacabofrio/node-template-engine.git"
+  },
+  "author": "Raffaello Damgaard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raffacabofrio/node-template-engine/issues"
+  },
+  "homepage": "https://github.com/raffacabofrio/node-template-engine#readme",
+  "devDependencies": {
+    "prettier": "2.0.5"
+  }
+}
